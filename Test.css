@@ -1,0 +1,33 @@
+body{
+    background-color:#CFE795;
+    font-family:sans-serif;
+}
+#Greeting{
+    text-align:center;
+}
+#Dog_Greeting{
+    text-align:center;
+    font-family:sans-serif;
+}
+#Doge{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.buttons{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:30px;
+    gap:20px;
+}
+#output{
+    
+    text-align:center;
+    font-size:medium;
+    margin:30px
+}
+#end{
+    text-align:center;
+    font-size:medium;
+}
